@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1 style="background-color:LightGray;">Pagina Web de Santiago Salas Sotillo </h1>
+<p>Yo soy Santiago Salas Sotillo,  actualmente soy estudiante de la Universidad catolica San Pablo, mas espesificamente de la carrera Ciencia de la Computación, me parece una muy bunea carrera, acontinuacion mecionare los cursos que estoy llevando</p>
+<h2 style="background-color:LightGray;">Cursos</h2>
+<h2></h2>
+
+
+<ol>
+  <li>Estructuras Discretas</li>
+  <li>Matematica</li>
+  <li>ICC</li>
+  <li>Ciencia de la computación</li>
+  <li>Matrimonio y familia</li>
+  <li>Filosofia</li>
+</ol> 
+
+
+<h2 style="background-color:LightGray;">Mis compañeros</h2>
+
+<p><a href="https://francozeg.github.io/">Franco Zegarra</a></p>
+
+<p><a href="https://hector-alejandro-novoa-soria.web.app/">Alejando Novoa</a></p>
+<p><a href="https://gabygol123.github.io/">Walter Valdivia</a></p>
+<p><a href="http://www.savewalterwhite.com/">Walter White</a></p>
+
+
+
+
+
+
+</body>
+</html>
